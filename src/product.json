@@ -1,0 +1,69 @@
+
+    { 
+        "id": 1, 
+        "Name": "Apple", 
+        "isCartAdded": false, 
+        "category": "fruits", 
+        "price": 2.50, 
+        "Brand": "Hi bride", 
+        "discription": "pure fruts", 
+        "imgsrc": "./image/images/img1.jpg", 
+        "date": "10/05/2029" 
+    }
+
+    { 
+        "id": 2, 
+        "Name": "Banana", 
+        "isCartAdded": false, 
+        "category": "fruits", 
+        "price": 5.50, 
+        "Brand": "Hi bride", 
+        "discription": "claen fruits", 
+        "imgsrc": "./image/images/img2.jpg", 
+        "date": "18/05/2020" 
+    }
+
+    { 
+        "id": 3, 
+        "Name": "Mobile", 
+        "isCartAdded": false, 
+        "category": "Gadget", 
+        "price": 8.50, 
+        "Brand": "Nokia brand",
+         "discription": "good for sale", 
+         "imgsrc": "./image/images/img3.jpg",
+          "date": "12/06/2020" 
+        }
+
+    { 
+        "id": 4, 
+        "Name": "Laptop", 
+        "isCartAdded": false,
+         "category": "computer", 
+         "price": 10.50, 
+         "Brand": "Hp brand", 
+         "discription": "good quilty", 
+         "imgsrc": "./image/images/img4.jpg",
+          "date": "21/05/2018" }
+
+    { "id": 5,
+      "Name": "headphone", 
+      "isCartAdded": false, 
+      "category": "handfree", 
+      "price": 5.50, 
+      "Brand": "Boult", 
+      "discription": "hi brand", 
+      "imgsrc": "./image/images/img5.jpg", 
+      "date": "27/05/2019" 
+    }
+
+    { "id": 6, 
+        "Name": "deasktop", 
+        "isCartAdded": false, 
+        "category": "computer", 
+        "price": 20.50, 
+        "Brand": "Lenovo", 
+        "discription": "portable desktop", 
+        "imgsrc": "./image/images/img6.jpg", 
+        "date": "15/07/2020" 
+    }
